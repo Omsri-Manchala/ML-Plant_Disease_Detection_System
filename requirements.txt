@@ -1,0 +1,24 @@
+# Core Deep Learning Framework
+tensorflow>=2.20.0
+
+# Web Application Framework
+streamlit
+
+# Numerical Computation
+numpy
+
+# Image Processing
+pillow
+
+# Data Visualization
+matplotlib
+seaborn
+
+# Machine Learning Metrics
+scikit-learn
+
+# Data Manipulation
+pandas
+
+# Optional: For better performance (if using GPU)
+# tensorflow-gpu==2.15.0
